@@ -1,8 +1,10 @@
-package com.example.todolist
+package com.example.todolist.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-//https://youtu.be/SVJFBAKcZSQ
+import androidx.appcompat.app.AppCompatActivity
+import com.example.todolist.R
+
+//https://www.youtube.com/watch?v=eVsiefsFuoQ
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
